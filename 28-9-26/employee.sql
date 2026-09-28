@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS departments (
     department_name VARCHAR(250)
 );
 
+-- hii
 
 CREATE TABLE IF NOT EXISTS customers (
     customer_id INT PRIMARY KEY AUTO_INCREMENT,
